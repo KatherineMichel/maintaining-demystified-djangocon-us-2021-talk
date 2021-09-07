@@ -115,8 +115,8 @@ Slide Deck and Video Recording
 - [OS Social Contract](#os-social-contract)
 - [Perks of Maintaining](#perks-of-maintaining)
 - [Eating Dinner With Guido](#eating-dinner-with-guido)
-- [Is It Worth It? Yes :)](#is-it-worth-it-yes)
-- [Is It Worth It? Yes :)](#is-it-worth-it-yes)
+- [Is It Worth It? Yes :)](#is-it-worth-it-yes-)
+- [Is It Worth It? Yes :)](#is-it-worth-it-yes-1)
 - [Special Thank You](#special-thank-you)
 - [Contact Me](#contact-me)
 
