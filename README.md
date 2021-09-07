@@ -1,4 +1,4 @@
-# Maintaining Demystified- DjangoCon US 2021
+# Maintaining Demystified- DjangoCon US 2021 Talk
 
 ## Table of Contents
 
