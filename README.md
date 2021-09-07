@@ -19,80 +19,106 @@ Conference Page
 * [DjangoCon US 2021](https://2021.djangocon.us/)
 
 Slide Deck and Video Recording
-* [Original slide deck](https://docs.google.com/presentation/d/17UG5OwojhiHYAaFjVJLncDdqMGHQAjk_W0rLoEgIp8Q/edit?usp=sharing)
+* [Original slide deck]()
 * ["Maintaining Demystified"]()
-* [Video recording](https://www.youtube.com/watch?v=jTc2MRg3f0I)
+* [Video recording]()
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
 <hr>
 
-
-
-
 ## Slides and Script Table of Contents
 
+- [Maintaining Demystified](#maintaining-demystified)
+- [My Affiliations](#my-affiliations)
+- [Talk Goals](#talk-goals)
+- [Assumptions](#assumptions)
 - [Get a Jumpstart on Collaboration and Code Review in GitHub](#get-a-jumpstart-on-collaboration-and-code-review-in-github)
-- [Welcome](#welcome)
-- [About Me](#about-me)
-- [Talk Goal](#talk-goal)
-- [Good News](#good-news)
-- [More Good News](#more-good-news)
-- [More Good News- Hacktoberfest](#more-good-news-hacktoberfest)
-- [Announcing TacoFancy](#announcing-tacofancy)
-- [One Life Changing Question](#one-life-changing-question)
-- [My First Pull Request](#my-first-pull-request)
-- [DjangoCon US Website as Example Project](#djangocon-us-website-as-example-project)
-- [Prerequisites for Getting Started](#prerequisites-for-getting-started)
-- [Housekeeping](#housekeeping)
-- [What are Git and GitHub?](#what-are-git-and-github)
-- [Social Network](#social-network)
-- [Repositories](#repositories)
-- [Local Development Environment Example](#local-development-environment-example)
-- [Workflow Overview](#workflow-overview)
-- [The Two Collaborative Development Models](#the-two-collaborative-development-models)
-- [The Two Types of Accounts](#the-two-types-of-accounts)
-- [Write Permission](#write-permission)
-- [Examples of What Write Permission Will Allow You to Do](#examples-of-what-write-permission-will-allow-you-to-do)
-- [Why We Need Write Permission](#why-we-need-write-permission)
-- [Write Permission and Collaboration Examples](#write-permission-and-collaboration-examples)
-- [How to Fork a Repo](#how-to-fork-a-repo)
-- [Forked Repo](#forked-repo)
-- [Workflow Overview](#workflow-overview)
-- [Collaboration and Code Review Best Practice Workflow Using Branches](#collaboration-and-code-review-best-practice-workflow-using-branches)
-- [Working on a File in GitHub](#working-on-a-file-in-github)
-- [Reasons for Using Branches](#reasons-for-using-branches)
-- [Branches](#branches)
-- [How to Create a Branch](#how-to-create-a-branch)
-- [Workflow Overview](#workflow-overview)
-- [Fork and Pull Model](#fork-and-pull-model)
-- [Shared Repository Model](#shared-repository-model)
-- [Bash Commands](#bash-commands)
-- [Local Development Environment](#local-development-environment)
-- [Cloning](#cloning)
-- [Changing Directory](#changing-directory)
-- [GitHub Repo Versus Local Directory](#github-repo-versus-local-directory)
-- [Verifying Branch](#verifying-branch)
-- [Creating a New Branch](#creating-a-new-branch)
-- [Working on a File Locally](#working-on-a-file-locally)
-- [Adding and Committing](#adding-and-committing)
-- [Pushing](#pushing)
-- [New Branch](#new-branch)
-- [Workflow Overview](#workflow-overview)
-- [Pull Request Review Process](#pull-request-review-process)
-- [Pull Request Command Line](#pull-request-command-line)
-- [Pull Request Review](#pull-request-review)
-- [Workflow Overview](#workflow-overview)
-- [Sandboxing](#sandboxing)
-- [Simple, But Effective](#simple-but-effective)
-- [Pushing Commits to a Pull Request](#pushing-commits-to-a-pull-request)
-- [Triaging](#triaging)
-- [Finding Community Projects Versus Via GitHub Search](#finding-community-projects-versus-via-github-search)
-- [When You Locate a Project](#when-you-locate-a-project)
+- [Maintaining is Not Just About Code](#maintaining-is-not-just-about-code)
+- [Put Yourself in the Shoes of the Contributor; Make Contributing as Frictionless as Possible](#put-yourself-in-the-shoes-of-the-contributor-make-contributing-as-frictionless-as-possible)
+- [GitHub Open Source Guide: “A Checklist Before You Contribute”](#github-open-source-guide-a-checklist-before-you-contribute”)
+- [Some Signs of a Healthy Project](#some-signs-of-a-healthy-project)
+- [Ideal Process](#ideal-process)
+- [Community Health Files](#community-health-files)
 - [Documentation](#documentation)
-- [Newcomer Perspective is Valuable](#newcomer-perspective-is-valuable)
+- [How Contributors Contribute](#how-contributors-contribute)
+- [Shared Repository Model](#shared-repository-model)
+- [Fork and Pull Model](#fork-and-pull-model)
+- [Creating a Pull Request](#creating-a-pull-request)
+- [Reviewing a Pull Request](#reviewing-a-pull-request)
+- [Reviewing a Pull Request](#reviewing-a-pull-request)
+- [Pull Request: Command Line](#pull-request-command-line)
+- [Pull Request: Options If You Do Not Run the Code Locally](#pull-request-options-if-you-do-not-run-the-code-locally)
+- [Pull Request: Options If You Run the Code Locally](#pull-request-options-if-you-run-the-code-locally)
+- [Pull Request: Commands](#pull-request-commands)
+- [Workflow: GitHub Flow](#workflow-github-flow)
+- [Workflow: A Variation](#workflow-a-variation)
+- [Some Recommendations](#some-recommendations)
+- [Licenses](#licenses)
+- [Security](#security)
+- [Open Source Metrics for Evaluating the Health of Your Project](#open-source-metrics-for-evaluating-the-health-of-your-project)
+- [More Useful GitHub Features](#more-useful-github-features)
+- [Case Study: DjangoCon US Website](#case-study-djangocon-us-website)
+- [Key Points](#key-points)
+- [DjangoCon US: The Conference with a Heart](#djangocon-us-the-conference-with-a-heart)
+- [The Sites I’ve Overseen](#the-sites-ive-overseen)
+- [“Low Hanging Fruit” PRs](#low-hanging-fruit-prs)
+- [I Learned How To...](#i-learned-how-to)
+- [Increase in the Number of Contributors](#increase-in-the-number-of-contributors)
+- [Also Became a Mentor](#also-became-a-mentor)
+- [A Few Lessons Learned from DjangoCon US Website](#a-few-lessons-learned-from-djangocon-us-website)
+- [Psychological Security](#psychological-security)
+- [The Mistakes Disappear into the Git History](#the-mistakes-disappear-into-the-git-history)
+- [The Beginner Perspective is Valuable](#the-beginner-perspective-is-valuable)
+- [Achieving 10x Results](#achieving-10x-results)
+- [My First Tech Talk](#my-first-tech-talk)
+- [Case Study: Pinax](#case-study-pinax)
+- [Key Points](#key-points)
+- [I Was Hired by Eldarion to Maintain Pinax](#i-was-hired-by-eldarion-to-maintain-pinax)
+- [Pinax Was Born: 2008](#pinax-was-born-2008)
+- [How It Began](#how-it-began)
+- [How It Began](#how-it-began)
+- [How It Was Going, 80 Project and Apps](#how-it-was-going-80-projects-and-apps)
+- [How It Was Going, Sustainability Lacking](#how-it-was-going-sustainability-lacking)
+- [How It Was Going, GitHub Organization, Global Docs, and Slack](#how-it-was-going-github-organization-global-docs-and-slack)
+- [Traditional Django Project](#traditional-django-project)
+- [Traditional Django Apps](#traditional-django-apps)
+- [Pinax CLI](#pinax-cli)
+- [Pinax CLI](#pinax-cli)
+- [Pinax CLI](#pinax-cli)
+- [`projects.json` File](#projects-json-file)
+- [Pinax Starter Projects](#pinax-starter-projects)
+- [Pinax Apps in Starter Projects](#pinax-apps-in-starter-projects)
+- [Pinax Apps Stand Alone](#pinax-apps-stand-alone)
+- [A Typical Release](#a-typical-release)
+- [Maintaining Pinax Apps](#maintaining-pinax-apps)
+- [Pinax App Codebases](#pinax-app-codebases)
+- [Professional Level Configs](#professional-level-configs)
+- [Update the Test Matrix](#update-the-test-matrix)
+- [pyenv and tox](#pyenv-and-tox)
+- [Python/Django Release Notes](#python-django-release-notes)
+- [Update SemVer Version and Changelog](#update-semver-version-and-changelog)
+- [Tag and Publish](#tag-and-publish)
+- [20.07 Release](#2007-release)
+- [Some Lessons Learned from Pinax](#some-lessons-learned-from-pinax)
+- [Simplified, Self-Service, and Self-Sustaining](#simplified-self-service-and-self-sustaining)
+- [Major Improvements I’ve Led](#major-improvements-ive-led)
+- [The Importance of Publicity](#the-importance-of-publicity)
+- [Burnout](#burnout)
+- [Reduce Scope](#reduce-scope)
+- [Additional Automation](#additional-automation)
+- [Python Specific Tools](#python-specific-tools)
+- [Centralize Access and Knowledge](#centralize-access-and-knowledge)
+- [Managing Volunteer Maintainers](#managing-volunteer-maintainers)
+- [Final Thoughts](#final-thoughts)
 - [When You Get Stuck](#when-you-get-stuck)
-- [Thank You](#thank-you)
+- [OS Social Contract](#os-social-contact)
+- [Perks of Maintaining](#perks-of-maintaining)
+- [Eating Dinner With Guido](#eating-dinner-with-guido)
+- [Is It Worth It? Yes :)](#is-it-worth-it-yes-:))
+- [Is It Worth It? Yes :)](#is-it-worth-it-yes-:))
+- [Special Thank You](#special-thank-you)
+- [Contact Me](#contact-me)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -200,7 +226,7 @@ The script is a general outline and varies somewhat from what was said during th
 ![Slide 6](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_5.jpg)
 
 </td><td>
-
+ 
 ### Maintaining is Not Just About Code
  
 * Firstly, it is important to realize that maintaining is not only about code
@@ -584,7 +610,7 @@ Below that will be
 ![Slide 27](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_26.jpg)
 
 </td><td>
- 
+
 ### Security
 
 * One difficult aspect of software security is that
@@ -696,7 +722,7 @@ https://chaoss.community/metrics/
 
 </td><td>
 
-### The Sites I’ve overseen
+### The Sites I’ve Overseen
  
 * I wanted to take my GitHub knowledge to the next level by learning how to be a maintainer
 * So, I asked the DjangoCon US Chair if I could be a maintainer of the website
@@ -956,7 +982,7 @@ https://chaoss.community/metrics/
 ![Slide 48](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_47.jpg)
 
 </td><td>
- 
+
 ### How It Began
  
 * They found themselves reusing some of the same code patterns while creating websites with Django
@@ -1045,7 +1071,7 @@ https://chaoss.community/metrics/
 ![Slide 53](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_52.jpg)
 
 </td><td>
-
+ 
 ### Traditional Django Project
  
 * Now, I'm going to talk about GitHub and the local development environment and how Pinax works
@@ -1705,7 +1731,7 @@ It’s inevitable that you will have moments of frustration and get stuck… her
 ![Slide 89](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_88.jpg)
 
 </td><td>
-
+ 
 ### Special Thank You :)
  
 * Thank you to Ricardo Diaz Rincon for reviewing the Spanish version of this talk: 
