@@ -36,7 +36,7 @@ Slide Deck and Video Recording
 - [Get a Jumpstart on Collaboration and Code Review in GitHub](#get-a-jumpstart-on-collaboration-and-code-review-in-github)
 - [Maintaining is Not Just About Code](#maintaining-is-not-just-about-code)
 - [Put Yourself in the Shoes of the Contributor; Make Contributing as Frictionless as Possible](#put-yourself-in-the-shoes-of-the-contributor-make-contributing-as-frictionless-as-possible)
-- [GitHub Open Source Guide: “A Checklist Before You Contribute”](#github-open-source-guide-a-checklist-before-you-contribute”)
+- [GitHub Open Source Guide: “A Checklist Before You Contribute”](#github-open-source-guide-a-checklist-before-you-contribute)
 - [Some Signs of a Healthy Project](#some-signs-of-a-healthy-project)
 - [Ideal Process](#ideal-process)
 - [Community Health Files](#community-health-files)
