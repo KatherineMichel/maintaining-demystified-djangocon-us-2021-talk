@@ -19,7 +19,7 @@ Conference Page
 * [DjangoCon US 2021](https://2021.djangocon.us/)
 
 Slide Deck and Video Recording
-* [Original slide deck]()
+* [Original slide deck](https://docs.google.com/presentation/d/1CmtZFPrFYpXyI2wUqha5kORw15naBkOBUbzNx2xM50I/edit?usp=sharing)
 * ["Maintaining Demystified"]()
 * [Video recording]()
 
