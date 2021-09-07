@@ -116,8 +116,8 @@ Slide Deck and Video Recording
 - [Perks of Maintaining](#perks-of-maintaining)
 - [Eating Dinner With Guido](#eating-dinner-with-guido)
 - [Is It Worth It? Yes :)](#is-it-worth-it-yes-)
-- [Is It Worth It? Yes :)](#is-it-worth-it-yes-1)
-- [Special Thank You](#special-thank-you)
+- [Is It Worth It? Yes :)](#is-it-worth-it-yes--1)
+- [Special Thank You](#special-thank-you-)
 - [Contact Me](#contact-me)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
