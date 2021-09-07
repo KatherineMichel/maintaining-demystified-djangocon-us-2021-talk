@@ -162,7 +162,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 4](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_3.jpg)
+![Slide 4](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_3.jpg)
 
 </td><td>
 
@@ -180,7 +180,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 5](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_4.jpg)
+![Slide 5](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_4.jpg)
 
 </td><td>
 
@@ -197,7 +197,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 6](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_5.jpg)
+![Slide 6](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_5.jpg)
 
 </td><td>
 
@@ -218,7 +218,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 7](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_6.jpg)
+![Slide 7](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_6.jpg)
 
 </td><td>
 
@@ -234,7 +234,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <tr><td width="30%">
 
-![Slide 8](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_7.jpg)
+![Slide 8](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_7.jpg)
 
 </td><td>
 
@@ -253,7 +253,7 @@ https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
 
 <tr><td width="30%">
 
-![Slide 9](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_8.jpg)
+![Slide 9](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_8.jpg)
 
 </td><td>
 
@@ -271,7 +271,7 @@ https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
 
 <tr><td width="30%">
 
-![Slide 10](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_9.jpg)
+![Slide 10](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_9.jpg)
 
 </td><td>
 
@@ -293,7 +293,7 @@ https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
 
 <tr><td width="30%">
 
-![Slide 11](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_10.jpg)
+![Slide 11](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_10.jpg)
 
 </td><td>
 
@@ -312,7 +312,7 @@ https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
 
 <tr><td width="30%">
 
-![Slide 12](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_11.jpg)
+![Slide 12](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_11.jpg)
 
 </td><td>
 
@@ -335,7 +335,7 @@ http://opensourcesurvey.org/2017/#insights
 
 <tr><td width="30%">
 
-![Slide 13](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_12.jpg)
+![Slide 13](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_12.jpg)
 
 </td><td>
 
@@ -350,7 +350,7 @@ http://opensourcesurvey.org/2017/#insights
 
 <tr><td width="30%">
 
-![Slide 14](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_13.jpg)
+![Slide 14](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_13.jpg)
 
 </td><td>
 
@@ -369,7 +369,7 @@ http://opensourcesurvey.org/2017/#insights
 
 <tr><td width="30%">
 
-![Slide 15](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_14.jpg)
+![Slide 15](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_14.jpg)
 
 </td><td>
 
@@ -387,7 +387,7 @@ http://opensourcesurvey.org/2017/#insights
 
 <tr><td width="30%">
 
-![Slide 16](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_15.jpg)
+![Slide 16](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_15.jpg)
 
 </td><td>
 
@@ -406,7 +406,7 @@ http://opensourcesurvey.org/2017/#insights
 
 <tr><td width="30%">
 
-![Slide 17](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_16.jpg)
+![Slide 17](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_16.jpg)
 
 </td><td>
 
@@ -424,7 +424,7 @@ http://opensourcesurvey.org/2017/#insights
 
 <tr><td width="30%">
 
-![Slide 18](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_17.jpg)
+![Slide 18](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_17.jpg)
 
 </td><td>
 
@@ -441,7 +441,7 @@ Below that will be
 
 <tr><td width="30%">
 
-![Slide 19](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_18.jpg)
+![Slide 19](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_18.jpg)
 
 </td><td>
 
@@ -457,7 +457,7 @@ Below that will be
 
 <tr><td width="30%">
 
-![Slide 20](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_19.jpg)
+![Slide 20](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_19.jpg)
 
 </td><td>
 
@@ -474,7 +474,7 @@ Below that will be
 
 <tr><td width="30%">
 
-![Slide 21](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_20.jpg)
+![Slide 21](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_20.jpg)
 
 </td><td>
 
@@ -490,7 +490,7 @@ Below that will be
 
 <tr><td width="30%">
 
-![Slide 22](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_21.jpg)
+![Slide 22](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_21.jpg)
 
 </td><td>
 
@@ -511,7 +511,7 @@ Below that will be
 
 <tr><td width="30%">
 
-![Slide 23](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_22.jpg)
+![Slide 23](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_22.jpg)
 
 </td><td>
 
@@ -526,7 +526,7 @@ Below that will be
 
 <tr><td width="30%">
 
-![Slide 24](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_23.jpg)
+![Slide 24](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_23.jpg)
 
 </td><td>
 
@@ -542,7 +542,7 @@ Below that will be
 
 <tr><td width="30%">
 
-![Slide 25](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_24.jpg)
+![Slide 25](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_24.jpg)
 
 </td><td>
 
@@ -555,7 +555,7 @@ Below that will be
 
 <tr><td width="30%">
 
-![Slide 26](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_25.jpg)
+![Slide 26](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_25.jpg)
 
 </td><td>
 
@@ -582,7 +582,7 @@ Below that will be
 
 <tr><td width="30%">
 
-![Slide 27](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_26.jpg)
+![Slide 27](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_26.jpg)
 
 </td><td>
  
@@ -605,7 +605,7 @@ Below that will be
 
 <tr><td width="30%">
 
-![Slide 28](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_27.jpg)
+![Slide 28](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_27.jpg)
 
 </td><td>
 
@@ -623,7 +623,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 29](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_28.jpg)
+![Slide 29](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_28.jpg)
 
 </td><td>
 
@@ -642,7 +642,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 30](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_29.jpg)
+![Slide 30](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_29.jpg)
 
 </td><td>
 
@@ -657,7 +657,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 31](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_30.jpg)
+![Slide 31](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_30.jpg)
 
 </td><td>
 
@@ -675,7 +675,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 32](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_31.jpg)
+![Slide 32](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_31.jpg)
 
 </td><td>
 
@@ -693,7 +693,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 33](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_32.jpg)
+![Slide 33](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_32.jpg)
 
 </td><td>
 
@@ -710,7 +710,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 34](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_33.jpg)
+![Slide 34](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_33.jpg)
 
 </td><td>
 
@@ -726,7 +726,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 35](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_34.jpg)
+![Slide 35](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_34.jpg)
 
 </td><td>
 
@@ -746,7 +746,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 36](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_35.jpg)
+![Slide 36](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_35.jpg)
 
 </td><td>
 
@@ -765,7 +765,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 37](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_36.jpg)
+![Slide 37](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_36.jpg)
 
 </td><td>
 
@@ -781,7 +781,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 38](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_37.jpg)
+![Slide 38](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_37.jpg)
 
 </td><td>
 
@@ -796,7 +796,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 39](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_38.jpg)
+![Slide 39](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_38.jpg)
 
 </td><td>
 
@@ -812,7 +812,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 40](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_39.jpg)
+![Slide 40](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_39.jpg)
 
 </td><td>
 
@@ -827,7 +827,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 41](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_40.jpg)
+![Slide 41](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_40.jpg)
 
 </td><td>
 
@@ -845,7 +845,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 42](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_41.jpg)
+![Slide 42](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_41.jpg)
 
 </td><td>
 
@@ -866,7 +866,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 43](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_42.jpg)
+![Slide 43](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_42.jpg)
 
 </td><td>
 
@@ -884,7 +884,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 44](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_43.jpg)
+![Slide 44](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_43.jpg)
 
 </td><td>
 
@@ -899,7 +899,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 45](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_44.jpg)
+![Slide 45](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_44.jpg)
 
 </td><td>
 
@@ -918,7 +918,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 46](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_45.jpg)
+![Slide 46](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_45.jpg)
 
 </td><td>
 
@@ -935,7 +935,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 47](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_46.jpg)
+![Slide 47](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_46.jpg)
 
 </td><td>
 
@@ -954,7 +954,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 48](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_47.jpg)
+![Slide 48](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_47.jpg)
 
 </td><td>
  
@@ -973,7 +973,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 49](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_48.jpg)
+![Slide 49](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_48.jpg)
 
 </td><td>
 
@@ -990,7 +990,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 50](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_49.jpg)
+![Slide 50](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_49.jpg)
 
 </td><td>
 
@@ -1009,7 +1009,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 51](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_50.jpg)
+![Slide 51](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_50.jpg)
 
 </td><td>
 
@@ -1026,7 +1026,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 52](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_51.jpg)
+![Slide 52](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_51.jpg)
 
 </td><td>
     
@@ -1043,7 +1043,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 53](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_52.jpg)
+![Slide 53](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_52.jpg)
 
 </td><td>
 
@@ -1063,7 +1063,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 54](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_53.jpg)
+![Slide 54](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_53.jpg)
 
 </td><td>
 
@@ -1080,7 +1080,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 55](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_54.jpg)
+![Slide 55](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_54.jpg)
 
 </td><td>
 
@@ -1099,7 +1099,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 56](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_55.jpg)
+![Slide 56](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_55.jpg)
 
 </td><td>
 
@@ -1118,7 +1118,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 57](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_56.jpg)
+![Slide 57](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_56.jpg)
 
 </td><td>
 
@@ -1133,7 +1133,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 58](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_57.jpg)
+![Slide 58](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_57.jpg)
 
 </td><td>
 
@@ -1148,7 +1148,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 59](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_58.jpg)
+![Slide 59](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_58.jpg)
 
 </td><td>
 
@@ -1164,7 +1164,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 60](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_59.jpg)
+![Slide 60](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_59.jpg)
 
 </td><td>
 
@@ -1179,7 +1179,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 61](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_60.jpg)
+![Slide 61](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_60.jpg)
 
 </td><td>
 
@@ -1195,7 +1195,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 62](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_61.jpg)
+![Slide 62](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_61.jpg)
 
 </td><td>
 
@@ -1215,7 +1215,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 63](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_62.jpg)
+![Slide 63](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_62.jpg)
 
 </td><td>
 
@@ -1234,7 +1234,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 64](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_63.jpg)
+![Slide 64](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_63.jpg)
 
 </td><td>
 
@@ -1249,7 +1249,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 65](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_64.jpg)
+![Slide 65](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_64.jpg)
 
 </td><td>
 
@@ -1267,7 +1267,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 66](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_65.jpg)
+![Slide 66](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_65.jpg)
 
 </td><td>
 
@@ -1283,7 +1283,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 67](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_66.jpg)
+![Slide 67](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_66.jpg)
 
 </td><td>
 
@@ -1304,7 +1304,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 68](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_67.jpg)
+![Slide 68](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_67.jpg)
 
 </td><td>
 
@@ -1321,7 +1321,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 69](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_68.jpg)
+![Slide 69](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_68.jpg)
 
 </td><td>
 
@@ -1340,7 +1340,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 70](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_69.jpg)
+![Slide 70](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_69.jpg)
 
 </td><td>
 
@@ -1360,7 +1360,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 71](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_70.jpg)
+![Slide 71](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_70.jpg)
 
 </td><td>
 
@@ -1378,7 +1378,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 72](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_71.jpg)
+![Slide 72](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_71.jpg)
 
 </td><td>
 
@@ -1393,7 +1393,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 73](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_72.jpg)
+![Slide 73](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_72.jpg)
 
 </td><td>
 
@@ -1411,7 +1411,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 74](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_73.jpg)
+![Slide 74](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_73.jpg)
 
 </td><td>
 
@@ -1432,7 +1432,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 75](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_74.jpg)
+![Slide 75](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_74.jpg)
 
 </td><td>
 
@@ -1451,7 +1451,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 76](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_75.jpg)
+![Slide 76](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_75.jpg)
 
 </td><td>
 
@@ -1474,7 +1474,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 77](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_76.jpg)
+![Slide 77](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_76.jpg)
 
 </td><td>
 
@@ -1493,7 +1493,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 78](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_77.jpg)
+![Slide 78](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_77.jpg)
 
 </td><td>
 
@@ -1513,7 +1513,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 79](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_78.jpg)
+![Slide 79](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_78.jpg)
 
 </td><td>
 
@@ -1534,7 +1534,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 80](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_79.jpg)
+![Slide 80](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_79.jpg)
 
 </td><td>
 
@@ -1554,7 +1554,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 81](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_80.jpg)
+![Slide 81](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_80.jpg)
 
 </td><td>
 
@@ -1575,7 +1575,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 82](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_81.jpg)
+![Slide 82](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_81.jpg)
 
 </td><td>
 
@@ -1590,7 +1590,7 @@ https://chaoss.community/metrics/
 
 <tr><td width="30%">
 
-![Slide 83](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_82.jpg)
+![Slide 83](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_82.jpg)
 
 </td><td>
 
@@ -1610,7 +1610,7 @@ It’s inevitable that you will have moments of frustration and get stuck… her
 
 <tr><td width="30%">
 
-![Slide 84](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_83.jpg)
+![Slide 84](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_83.jpg)
 
 </td><td>
 
@@ -1629,7 +1629,7 @@ It’s inevitable that you will have moments of frustration and get stuck… her
 
 <tr><td width="30%">
 
-![Slide 85](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_84.jpg)
+![Slide 85](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_84.jpg)
 
 </td><td>
 
@@ -1650,7 +1650,7 @@ It’s inevitable that you will have moments of frustration and get stuck… her
 
 <tr><td width="30%">
 
-![Slide 86](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_85.jpg)
+![Slide 86](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_85.jpg)
 
 </td><td>
 
@@ -1668,7 +1668,7 @@ It’s inevitable that you will have moments of frustration and get stuck… her
 
 <tr><td width="30%">
 
-![Slide 87](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_86.jpg)
+![Slide 87](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_86.jpg)
 
 </td><td>
 
@@ -1684,7 +1684,7 @@ It’s inevitable that you will have moments of frustration and get stuck… her
 
 <tr><td width="30%">
 
-![Slide 88](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_87.jpg)
+![Slide 88](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_87.jpg)
 
 </td><td>
 
@@ -1703,7 +1703,7 @@ It’s inevitable that you will have moments of frustration and get stuck… her
 
 <tr><td width="30%">
 
-![Slide 89](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_88.jpg)
+![Slide 89](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_88.jpg)
 
 </td><td>
 
@@ -1720,7 +1720,7 @@ It’s inevitable that you will have moments of frustration and get stuck… her
 
 <tr><td width="30%">
 
-![Slide 90](https://speakerd.s3.amazonaws.com/presentations/c7426fbdf98547df99270ec45e047634/slide_89.jpg)
+![Slide 90](https://speakerd.s3.amazonaws.com/presentations/001d82e284ed4157be64cd12b526dde3/slide_89.jpg)
 
 </td><td>
 
