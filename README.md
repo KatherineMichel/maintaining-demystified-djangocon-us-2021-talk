@@ -565,7 +565,6 @@ Below that will be
 * Copyleft licenses
 * Ethical licenses
 * GitHub “Choose a License”
-
 * A very common license is the MIT license
 * The MIT License is non-copyleft and gives the user a lot of freedom in the use of the code, including making the code private
 * A Copyleft License usually requires that the code remains open source
@@ -800,7 +799,7 @@ https://chaoss.community/metrics/
 
 </td><td>
 
-### Seguridad Psicológica
+### Psychological Security
  
 * It is ideal to learn in an environment of psychological safety
 * Fortunately for me, I could not have stumbled upon a nicer community
