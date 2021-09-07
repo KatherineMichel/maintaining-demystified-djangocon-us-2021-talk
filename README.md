@@ -78,7 +78,7 @@ Slide Deck and Video Recording
 - [Pinax Was Born: 2008](#pinax-was-born-2008)
 - [How It Began](#how-it-began)
 - [How It Began](#how-it-began)
-- [How It Was Going, 80 Project and Apps](#how-it-was-going-80-projects-and-apps)
+- [How It Was Going, 80 Projects and Apps](#how-it-was-going-80-projects-and-apps)
 - [How It Was Going, Sustainability Lacking](#how-it-was-going-sustainability-lacking)
 - [How It Was Going, GitHub Organization, Global Docs, and Slack](#how-it-was-going-github-organization-global-docs-and-slack)
 - [Traditional Django Project](#traditional-django-project)
@@ -1019,7 +1019,7 @@ https://chaoss.community/metrics/
 
 </td><td>
 
-### How It Was Going, 80 Project and Apps
+### How It Was Going, 80 Projects and Apps
  
 * By 2017, Pinax had grown to be a large group of professionally-quality, interdependent Django projects and apps
 * Including starter projects with Pinax apps pre-installed and a Pinax CLI to install them
