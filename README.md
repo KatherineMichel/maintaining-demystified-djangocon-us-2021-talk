@@ -112,7 +112,7 @@ Slide Deck and Video Recording
 - [Managing Volunteer Maintainers](#managing-volunteer-maintainers)
 - [Final Thoughts](#final-thoughts)
 - [When You Get Stuck](#when-you-get-stuck)
-- [OS Social Contract](#os-social-contact)
+- [OS Social Contract](#os-social-contract)
 - [Perks of Maintaining](#perks-of-maintaining)
 - [Eating Dinner With Guido](#eating-dinner-with-guido)
 - [Is It Worth It? Yes :)](#is-it-worth-it-yes-:))
